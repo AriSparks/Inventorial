@@ -10,7 +10,7 @@
 
 * **Dedicated Toolbelt Slots** — Five specialized slots (Sword, Axe, Pickaxe, Shovel, Hoe) with non-destructive auto-switching and Mending XP support.
 * **Dedicated Elytra Slot** — Extra utility slot on the inventory screen for an Elytra.
-* **Cycling Offhand Slots & Multi-Slot Totem Support** — Expandable offhand grid (4 base slots, up to 16 with Big Hands), hotbar HUD previews, Swap Hands support, and Totems of Undying that trigger from any offhand slot.
+* **Cycling Offhand Slots & Multi-Slot Totem Support** — Expandable offhand grid (2 base slots, up to 8 with Big Hands), hotbar HUD previews, Swap Hands support, and Totems of Undying that trigger from any offhand slot.
 * **Data-Driven Enchantments** — *Deep Pockets* (Leggings) and *Big Hands* (Chestplates) with zero-item-loss overflow evacuation.
 * **Container GUI Extensions** — Deep Pockets slots remain accessible alongside chests, crafting tables, furnaces, and the Creative inventory.
 * **Dynamic Inventory Screen Scaling** — Automatically scales the inventory UI to fit any resolution and GUI scale without clipping.
@@ -31,11 +31,11 @@
 * Provides a dedicated utility slot with a custom `slot_elytra` silhouette on the inventory screen for storing/equipping an Elytra.
 
 ### 3. Cycling Offhand Slots & Multi-Slot Totem Support
-* **Multi-Slot Offhand**: Players have 4 offhand slots by default (extendable up to 16 slots with *Big Hands*).
+* **Multi-Slot Offhand**: Players have 2 offhand slots by default (extendable up to 8 slots with *Big Hands*).
 * **Multi-Slot Totem of Undying Support**: Totems of Undying function from **any** offhand slot, not just the currently active one. On lethal damage, the mod sweeps through all offhand slots, consumes a totem, and triggers resurrection.
 * **Smooth Cycling & Swap Hands**: Cycle through offhand items using `Ctrl + Mouse Wheel` (or rebindable keys), with seamless wrap-around. Using the Swap Hands key swaps the hotbar and offhand contents.
 * **Hotbar HUD Indicator**: Displays the active offhand item in the offhand frame alongside smaller preview slots for the previous and next items.
-* **Inventory Screen Layout**: Laid out as a 4-row grid to the right of the player's paper-doll model.
+* **Inventory Screen Layout**: Laid out as a 2-column grid to the right of the player's paper-doll model.
 
 ### 4. New Data-Driven Enchantments
 * **Deep Pockets** (Max Level 4, **Leggings** only):
