@@ -43,7 +43,7 @@
   * Accessible in the Survival inventory, Creative inventory, and alongside other container GUIs (chests, crafting tables, furnaces, etc.).
   * Obtainable via the Enchanting Table, dungeon loot chests, and villager trades.
 * **Big Hands** (Max Level 3, **Chestplates** only):
-  * Each level adds 4 additional offhand slots (as additional columns to the right of the paper-doll).
+  * Each level adds 2 additional offhand slots (as additional columns to the right of the paper-doll).
 * **Zero Item Loss Guarantee**:
   * When enchanted equipment is removed or downgraded, excess slots are safely drained into available main inventory slots, with any remaining overflow dropped at the player's feet.
 
