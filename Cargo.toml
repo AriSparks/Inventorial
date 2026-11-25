@@ -1,0 +1,10 @@
+[package]
+name = "mod-inventorial"
+version = "1.0.0"
+edition = "2024"
+authors = ["Inventorial Team"]
+description = "A comprehensive inventory expansion mod for Horizon"
+license = "MIT"
+
+[dependencies]
+horizon-mod-api = { path = ".horizon/sdk/api/crates/horizon-mod-api" }

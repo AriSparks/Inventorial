@@ -1,0 +1,21 @@
+{
+  "description": {
+    "translate": "enchantment.inventorial.deep_pockets"
+  },
+  "supported_items": "#minecraft:enchantable/leg_armor",
+  "primary_items": "#minecraft:enchantable/leg_armor",
+  "weight": 6,
+  "max_level": 4,
+  "min_cost": {
+    "base": 5,
+    "per_level_above_first": 7
+  },
+  "max_cost": {
+    "base": 30,
+    "per_level_above_first": 7
+  },
+  "anvil_cost": 4,
+  "slots": [
+    "legs"
+  ]
+}

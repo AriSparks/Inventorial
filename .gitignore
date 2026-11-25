@@ -1,0 +1,7 @@
+/target/
+/.horizon/
+/Horizon-Source/
+/Reference-Mod/
+/Agents.md
+/package.sh
+*.hmod

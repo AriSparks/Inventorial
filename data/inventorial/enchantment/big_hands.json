@@ -1,0 +1,21 @@
+{
+  "description": {
+    "translate": "enchantment.inventorial.big_hands"
+  },
+  "supported_items": "#minecraft:enchantable/chest_armor",
+  "primary_items": "#minecraft:enchantable/chest_armor",
+  "weight": 6,
+  "max_level": 3,
+  "min_cost": {
+    "base": 5,
+    "per_level_above_first": 7
+  },
+  "max_cost": {
+    "base": 30,
+    "per_level_above_first": 7
+  },
+  "anvil_cost": 3,
+  "slots": [
+    "chest"
+  ]
+}
